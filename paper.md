@@ -9,6 +9,10 @@ FrenchMedMCQA-A French Multiple-Choice Question Answering [pdf](https://arxiv.or
 ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences [pdf](https://arxiv.org/abs/2311.06025)
 
 Benchmarking Large Language Models on CMExam -- A Comprehensive Chinese Medical Exam Dataset [pdf](https://arxiv.org/abs/2306.03030)
+
+SafetyBench: Evaluating the Safety of Large Language Models with Multiple Choice Questions [pdf](https://arxiv.org/abs/2309.07045)
+
+
 ## Language Model
 
 Safety Assessment of Chinese Large Language Models [pdf](https://arxiv.org/abs/2304.10436)
