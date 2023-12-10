@@ -18,3 +18,7 @@ Safety Assessment of Chinese Large Language Models [pdf](https://arxiv.org/abs/2
 SafetyBench: Evaluating the Safety of Large Language Models with Multiple Choice Questions [pdf](https://arxiv.org/abs/2309.07045)
 
 CValues: Measuring the Values of Chinese Large Language Models from Safety to Responsibility [pdf](https://arxiv.org/abs/2307.09705)
+
+FFT: Towards Harmlessness Evaluation and Analysis for LLMs with Factuality, Fairness, Toxicity [pdf](https://arxiv.org/abs/2311.18580)
+
+
