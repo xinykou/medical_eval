@@ -21,4 +21,4 @@ CValues: Measuring the Values of Chinese Large Language Models from Safety to Re
 
 FFT: Towards Harmlessness Evaluation and Analysis for LLMs with Factuality, Fairness, Toxicity [pdf](https://arxiv.org/abs/2311.18580)
 
-
+the ease of subverting safely-aligned language models [pdf](https://arxiv.org/pdf/2310.02949.pdf)
